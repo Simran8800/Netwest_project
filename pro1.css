@@ -60,6 +60,7 @@
     border: 1px solid black;
     display: grid;
     background-color: rgb(202, 20, 202);
+     margin-top: -0.3%;
     
 
 }
@@ -77,7 +78,7 @@
     height: 7.4vh;
     border: 1px solid black;
     display: grid;
-    margin-top: 5px;
+     margin-top: -11.7%;
     background-color: yellow;
     /* margin-bottom: 5%; */
 
